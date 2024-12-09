@@ -8,49 +8,140 @@ document.addEventListener('DOMContentLoaded', () => {
             nombre: 'Figura de accion Luffy en pose de combate',
             precio: 250000,
             imagen: 'assets/img/img1.jpg',
-            categoria: 'sombreros'
+            categoria: 'Figuras de accion'
         },
         {
             id: 2,
             nombre: 'Figura de acción Luffy sonriendo',
             precio: 150000,
             imagen: 'assets/img/img2.jpg',
-            categoria: 'sombreros'
+            categoria: 'Figuras de accion'
         },
         {
             id: 3,
             nombre: 'Figura de acción Ironman/Tony Stark ultrarealista en pose de [Yo soy Ironman]',
             precio: 250000,
             imagen: 'assets/img/img3.jpg',
-            categoria: 'sombreros'
+            categoria: 'Figuras de accion'
         },
         {
             id: 4,
             nombre: 'Figura de coleccion de Zoro en la escena contra King',
             precio: 500000,
             imagen: 'assets/img/img4.jpg',
-            categoria: 'mochilas'
+            categoria: 'Figuras de accion'
         },
         {
             id: 5,
             nombre: 'Figura de acción Zoro preparado para la batalla',
             precio: 300000,
             imagen: 'assets/img/img5.jpg',
-            categoria: 'bolsos'
+            categoria: 'Figuras de accion'
         },
         {
             id: 6,
             nombre: 'FunkoZoro',
             precio: 110000,
             imagen: 'assets/img/img6.jpg',
-            categoria: 'hamacas'
+            categoria: 'Funkos'
         },
         {
             id: 7,
             nombre: 'Conjunto figuras de accion, personajes de Kimetsu no Yaiba',
             precio: 470000,
             imagen: 'assets/img/img7.jpg',
-            categoria: 'hamacas'
+            categoria: 'Figuras de accion'
+        },
+        {
+            id: 8,
+            nombre: 'Figura de acción Goku Dragon Ball, pose de batalla',
+            precio: 500000,
+            imagen: 'assets/img/img8.jpg',
+            categoria: 'Figuras de accion'
+        },
+        {
+            id: 9,
+            nombre: 'Figura de accion Shenlong Dragon Ball, con las esferas del dragon',
+            precio: 170000,
+            imagen: 'assets/img/img9.jpg',
+            categoria: 'Figuras de accion'
+        },
+        {
+            id: 10,
+            nombre: 'Conjunto Funko Eris, toda bonita, toda hermosa',
+            precio: 360000,
+            imagen: 'assets/img/img10.jpg',
+            categoria: 'Funkos'
+        },
+        {
+            id: 11,
+            nombre: 'Figura de accion Sukuna, sentado como un Rey',
+            precio: 280000,
+            imagen: 'assets/img/sakuna.png',
+            categoria: 'Figuras de accion'
+        },
+        {
+            id: 12,
+            nombre: 'Figura de acción Yor Forger, Spy x Family, carita sonriente',
+            precio: 70000,
+            imagen: 'assets/img/1-carrusel.png',
+            categoria: 'Figuras de accion'
+        },
+        {
+            id: 13,
+            nombre: 'Figura de accion Asta semitransformación Black Form, Black clover',
+            precio: 470000,
+            imagen: 'assets/img/asta.png',
+            categoria: 'Figuras de accion'
+        },
+        {
+            id: 14,
+            nombre: 'Conjunto Funkos, personajes Jujutsu Kaisen',
+            precio: 490000,
+            imagen: 'assets/img/3-carru.png',
+            categoria: 'Funkos'
+        },
+        {
+            id: 15,
+            nombre: 'Figura de accion, Sung Jiwoo rey de las sombras, Solo Leveling,',
+            precio: 97000,
+            imagen: 'assets/img/sun-jiwoo.png',
+            categoria: 'Figuras de accion'
+        },
+        {
+            id: 16,
+            nombre: 'Sobrero de Ace, One Piece',
+            precio: 57000,
+            imagen: 'assets/img/sombreros.png',
+            categoria: 'Sombreros'
+        },
+        {
+            id: 17,
+            nombre: 'Pulsera Tanjiro Kimetsu no Yaiba',
+            precio: 5000,
+            imagen: 'assets/img/pulseras.png',
+            categoria: 'Pulseras'
+        },
+        {
+            id: 18,
+            nombre: 'Pulsera calavera One piece',
+            precio: 5000,
+            imagen: 'assets/img/pulsera2.png',
+            categoria: 'Pulseras'
+        },
+        {
+            id: 19,
+            nombre: 'Pendientes Kazutora Hanemiya, Tokyo Revengers',
+            precio: 30000,
+            imagen: 'assets/img/aretes.jpg',
+            categoria: 'Aretes'
+        },
+        {
+            id: 20,
+            nombre: 'Conjunto de collares, espadas de Toji Fushiguro, Jujutsu Kaisen',
+            precio: 30000,
+            imagen: 'assets/img/2carru.png',
+            categoria: 'Collares'
         }
 
     ];

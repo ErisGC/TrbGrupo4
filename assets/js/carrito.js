@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 10,
-            nombre: 'Conjunto Funko Eris, toda bonita, toda hermosa',
+            nombre: 'Conjunto Funko Eris',
             precio: 360000,
             imagen: 'assets/img/img10.jpg',
             categoria: 'Funkos'
